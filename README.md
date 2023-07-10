@@ -1,1 +1,0 @@
-# histopathologyatlas.github.io
